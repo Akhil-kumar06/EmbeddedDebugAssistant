@@ -1,0 +1,4 @@
+{"ms": 100, "state": "RUNNING", "fault": "OK", "temperature": 40, "fan": 0.16, "age_ms": 0}
+{"ms": 200, "state": "FAULT", "fault": "SENSOR_INVALID", "temperature": 40, "fan": 1, "age_ms": 0}
+{"ms": 300, "state": "FAULT", "fault": "SENSOR_INVALID", "temperature": 40, "fan": 1, "age_ms": 0}
+{"ms": 1200, "state": "RUNNING", "fault": "OK", "temperature": 40, "fan": 0.16, "age_ms": 0}

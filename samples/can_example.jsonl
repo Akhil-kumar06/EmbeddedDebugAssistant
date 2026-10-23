@@ -1,0 +1,5 @@
+{"ms": 0, "engine": "OK", "vehicle": "OK", "rpm": 2000, "temp": 85, "speed": 35.0, "invalid": 0, "alarm": false}
+{"ms": 100, "engine": "OK", "vehicle": "OK", "rpm": 2000, "temp": 85, "speed": 35.0, "invalid": 0, "alarm": false}
+{"ms": 700, "engine": "TIMEOUT", "vehicle": "OK", "rpm": 2000, "temp": 85, "speed": 35.0, "invalid": 1, "alarm": false}
+{"ms": 800, "engine": "TIMEOUT", "vehicle": "OK", "rpm": 2000, "temp": 85, "speed": 35.0, "invalid": 3, "alarm": false}
+{"ms": 900, "engine": "OK", "vehicle": "OK", "rpm": 2000, "temp": 85, "speed": 35.0, "invalid": 3, "alarm": false}
